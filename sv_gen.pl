@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # This file is subject to the terms and conditions defined in
-# file, 'LICENSE'
+# file, 'LICENSE.md'
 #
 # Semantic version (semver.org) generation and validation
 #
